@@ -65,5 +65,5 @@
 
 ---
 
-🎯 **This resource list will equip students with theoretical knowledge, practical skills, and essential tools to secure their websites effectively.** 🚀💻  
-Feel free to share and improve! 😊
+🎯 **This resource list will equip you with theoretical knowledge, practical skills, and essential tools to secure their websites effectively.** 🚀💻  
+Feel free to share with your friends😊
